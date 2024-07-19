@@ -14,7 +14,6 @@ To get started with this project, clone the repository and install the required 
 ```bash
 git clone https://github.com/Ayush-Petwal/Wine-Quality-Prediction.git
 cd Wine-Quality-Prediction
-pip install --> streamlit
 ```
 ## Run
 streamlit run app.py
